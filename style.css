@@ -26,3 +26,13 @@ header h1 {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-contecnt: center;
+}
+
+.gallery__item {
+    margin: 2vmin;
+}
